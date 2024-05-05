@@ -7,3 +7,16 @@
 [![Twitch Status](https://img.shields.io/twitch/status/eiiden_)
 [![Twitter followers](https://img.shields.io/twitter/follow/eiidenstudio)
 ![Discord Shield](https://discordapp.com/api/guilds/1063104910910029857/widget.png?style=shield)
+
+## About Me!
+
+Hi! I'm a freelance Graphic Designer and Illustrator from Colombia, I specialize mainly in graphic designs, banners, emotes, Overlays, Animation, anything :) I'll give you my best service to ensure your satisfaction! I look forward to work with you! Feel free to chat with me first to inquire Thank you.
+
+## Projects *bombitas*
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Osu! Skins</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.postimg.cc/sxL7D4nC/68747470733a2f2f692e696d6775722e636f6d2f6f397a4955644d2e706e67.png" width="400" alt="Curso básico android"></a>
+<p>
