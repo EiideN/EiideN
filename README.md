@@ -17,9 +17,10 @@ Hi! I'm a freelance Graphic Designer and Illustrator from Colombia, I specialize
 <tr>
 <td width="50%">
 <h3 align="center">Osu! Skins</h3>
+<h3 align="center"><a href="https://skins.osuck.net/authors/17561095" target="_blank"><img src="https://img.shields.io/badge/-osucknet-green?style=for-the-badge&color=F4F0BC"></a>
+<a href="https://compendium.skinship.xyz/authors/17561095" target="_blank"><img src="https://img.shields.io/badge/-skinship-green?style=for-the-badge&color=5AB6FF"></a></h3>
 <div align="center">
 <img src="https://i.postimg.cc/sxL7D4nC/68747470733a2f2f692e696d6775722e636f6d2f6f397a4955644d2e706e67.png" width="400" alt="Curso básico android">
 <p>
 <a href="https://github.com/cvgraphic/skins2022" target="_blank"><img src="https://img.shields.io/badge/-2022-green?style=for-the-badge&color=80EAFF"></a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank"><img src="https://img.shields.io/badge/-2023-green?style=for-the-badge&color=80A6FF"></a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank"><img src="https://img.shields.io/badge/-2024-green?style=for-the-badge&color=95FFB4"></a>
+<a href="[https://youtu.be/vJapzH_46a8](https://github.com/cvgraphic/skins2024/blob/main/README.md)" target="_blank"><img src="https://img.shields.io/badge/-2024-green?style=for-the-badge&color=95FFB4"></a>
