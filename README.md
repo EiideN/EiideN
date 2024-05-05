@@ -18,5 +18,8 @@ Hi! I'm a freelance Graphic Designer and Illustrator from Colombia, I specialize
 <td width="50%">
 <h3 align="center">Osu! Skins</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.postimg.cc/sxL7D4nC/68747470733a2f2f692e696d6775722e636f6d2f6f397a4955644d2e706e67.png" width="400" alt="Curso básico android"></a>
+<img src="https://i.postimg.cc/sxL7D4nC/68747470733a2f2f692e696d6775722e636f6d2f6f397a4955644d2e706e67.png" width="400" alt="Curso básico android">
 <p>
+<a href="https://youtu.be/vJapzH_46a8" target="_blank"><img src="https://img.shields.io/badge/-2022-green?style=for-the-badge&color=80EAFF"></a>
+<a href="https://youtu.be/vJapzH_46a8" target="_blank"><img src="https://img.shields.io/badge/-2023-green?style=for-the-badge&color=80A6FF"></a>
+<a href="https://youtu.be/vJapzH_46a8" target="_blank"><img src="https://img.shields.io/badge/-2024-green?style=for-the-badge&color=#98FFD9"></a>
