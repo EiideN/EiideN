@@ -23,4 +23,4 @@ Hi! I'm a freelance Graphic Designer and Illustrator from Colombia, I specialize
 <img src="https://i.postimg.cc/sxL7D4nC/68747470733a2f2f692e696d6775722e636f6d2f6f397a4955644d2e706e67.png" width="400" alt="Curso básico android">
 <p>
 <a href="https://github.com/cvgraphic/skins2022" target="_blank"><img src="https://img.shields.io/badge/-2022-green?style=for-the-badge&color=80EAFF"></a>
-<a href="[https://youtu.be/vJapzH_46a8](https://github.com/cvgraphic/skins2024/blob/main/README.md)" target="_blank"><img src="https://img.shields.io/badge/-2024-green?style=for-the-badge&color=95FFB4"></a>
+<a href="https://github.com/cvgraphic/skins2024" target="_blank"><img src="https://img.shields.io/badge/-2024-green?style=for-the-badge&color=95FFB4"></a>
