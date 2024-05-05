@@ -22,4 +22,4 @@ Hi! I'm a freelance Graphic Designer and Illustrator from Colombia, I specialize
 <p>
 <a href="https://youtu.be/vJapzH_46a8" target="_blank"><img src="https://img.shields.io/badge/-2022-green?style=for-the-badge&color=80EAFF"></a>
 <a href="https://youtu.be/vJapzH_46a8" target="_blank"><img src="https://img.shields.io/badge/-2023-green?style=for-the-badge&color=80A6FF"></a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank"><img src="https://img.shields.io/badge/-2024-green?style=for-the-badge&color=A8FFDF"></a>
+<a href="https://youtu.be/vJapzH_46a8" target="_blank"><img src="https://img.shields.io/badge/-2024-green?style=for-the-badge&color=95FFB4"></a>
